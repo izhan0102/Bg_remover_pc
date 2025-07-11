@@ -23,7 +23,7 @@ Pretty much what it says on the tin - it removes backgrounds from images! But wi
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/BG_Remover_PC.git
+git clone https://github.com/izhan0102/BG_Remover_PC.git
 
 # Install dependencies
 pip install -r requirements.txt
