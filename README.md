@@ -11,6 +11,17 @@ Pretty much what it says on the tin - it removes backgrounds from images! But wi
 - **Direct downloads** - No annoying "create an account to download" nonsense
 - **Clean, dark UI** - Because light mode hurts my eyes at 2am
 
+## Demo
+
+Check out how easy it is to use BG Remover:
+
+https://github.com/izhan0102/Bg_remover_pc/assets/preview.mp4
+
+<video width="640" height="360" controls>
+  <source src="preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Getting Started
 
 ### The easy way:
