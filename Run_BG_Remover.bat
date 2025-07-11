@@ -1,0 +1,3 @@
+@echo off
+echo Starting Background Remover...
+start "" "%~dp0dist\Background_Remover.exe" 
