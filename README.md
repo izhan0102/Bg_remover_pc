@@ -15,7 +15,7 @@ Pretty much what it says on the tin - it removes backgrounds from images! But wi
 
 Check out how easy it is to use BG Remover:
 
-https://github.com/izhan0102/Bg_remover_pc/blob/main/preview.mp4
+
 
 <video width="640" height="360" controls>
   <source src="preview.mp4" type="video/mp4">
